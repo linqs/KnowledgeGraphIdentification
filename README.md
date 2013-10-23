@@ -5,6 +5,7 @@ You may want to read the PSL Getting Started guide to better understand PSL: htt
 
 iswc13:
 To quickly get started:
+
 1. Dowload the dataset: bash fetchDataset.sh
 2. Build your classpath using Maven: mvn dependency:build-classpath -Dmdep.outputFile=classpath.out
 3. Compile the KGI model: mvn compile
