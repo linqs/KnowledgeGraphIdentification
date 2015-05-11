@@ -1,6 +1,6 @@
 #!/bin/bash
 
-DATAURL=http://linqs.cs.umd.edu/datasets/nell_lazy.tgz
+DATAURL=http://linqs.cs.umd.edu/datasets/kgi_akbc13_nell.tgz
 CURL=`which curl`
 WGET=`which wget`
 TAR=`which tar`
