@@ -1,6 +1,6 @@
 #!/bin/bash
 
-DATAURL=http://linqs.cs.umd.edu/datasets/nell.tgz
+DATAURL=https://linqs-data.soe.ucsc.edu/public/pujara_iswc13/nell.tgz
 CURL=`which curl`
 WGET=`which wget`
 TAR=`which tar`
